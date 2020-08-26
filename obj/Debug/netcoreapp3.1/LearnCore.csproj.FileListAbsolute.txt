@@ -153,6 +153,8 @@ D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFramewor
 D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 D:\Learning\LearnCore\LearnCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
