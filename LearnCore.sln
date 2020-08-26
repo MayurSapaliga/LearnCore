@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnCore", "LearnCore.csproj", "{4F5BE764-C55E-422E-B8EE-7492E709505D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationServices", "..\..\LocationServices\LocationServices.csproj", "{A6B1C903-6651-4BE5-870C-6314E615816A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5BE764-C55E-422E-B8EE-7492E709505D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5BE764-C55E-422E-B8EE-7492E709505D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5BE764-C55E-422E-B8EE-7492E709505D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5BE764-C55E-422E-B8EE-7492E709505D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B1C903-6651-4BE5-870C-6314E615816A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B1C903-6651-4BE5-870C-6314E615816A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B1C903-6651-4BE5-870C-6314E615816A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B1C903-6651-4BE5-870C-6314E615816A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {756595EB-2630-4A92-8287-9218BF1F1082}
+	EndGlobalSection
+EndGlobal
